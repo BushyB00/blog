@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "Typography and You  "
-slug: "/typography-and-you  "
+slug: "/typography-and-you"
 date: 2021-02-14 17:50
 description: "A basic look on typography and what you might want to know "
 featuredImage: /assets/601b19bacefce775770028.jpg
