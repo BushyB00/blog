@@ -6,7 +6,7 @@ date: 2021-02-14 17:50
 description: "A basic look on typography and what you might want to know "
 featuredImage: /assets/601b19bacefce775770028.jpg
 ---
-<!--StartFragment-->
+
 
 Typography is the art of using font, color, weight, size, layout, and more to create something with greater meaning. This is what some believe to be 95% of web design and what would take up most of your time as a developer, making it one of the essential things that you will have to do to make an excellent and professional website. There are some worthy ideals to keep in mind when trying to utilize typography. The understanding of what micro and macro typography are and how to use it. What is Sans's serif font and just regular Serif font, what's the difference between the two, and which one should you use? Finally, what are web-safe fonts to be using. 
 
@@ -30,6 +30,4 @@ Web-safe fonts are the few basic fonts that are available on most or all compute
 
 It's best to use these fonts as the necessary fonts for your page and at least have one of them be your back up just if something happens and you need to change the font or need another style. 
 
-These ideals are good to keep in mind and help make a new website or help expand on making a current one. Remember what macro and micro are and how they affect your webpage. Make sure that you use San's and serif font in the right way to maximize efficiency, and be sure to use web-safe fonts to make your overall experience more comfortable. 
-
-<!--EndFragment-->
+These ideals are good to keep in mind and help make a new website or help expand on making a current one. Remember what macro and micro are and how they affect your webpage. Make sure that you use San's and serif font in the right way to maximize efficiency, and be sure to use web-safe fonts to make your overall experience more comfortable.
