@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "Formatting Web pages and you. "
-slug: formatting-web-pages
+slug: /formatting-web-pages
 date: 2021-03-07 15:14
 description: |-
   https://www.w3schools.com/html/html_responsive.asp  
