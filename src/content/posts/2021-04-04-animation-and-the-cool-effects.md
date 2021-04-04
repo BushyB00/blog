@@ -11,6 +11,7 @@ description: >-
 
 
   https://laughingsamurai.com/web-design/using-animations-in-web-design/
+featuredImage: /assets/image5-850x567-1.gif
 ---
 <!--StartFragment-->
 
